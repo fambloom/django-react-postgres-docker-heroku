@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://backend:8000/",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.6.0",
     "history": "^4.10.1",
     "pinch-zoom-pan": "^3.0.0",
